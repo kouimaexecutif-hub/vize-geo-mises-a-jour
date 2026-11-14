@@ -1,0 +1,6 @@
+# Seuls les fichiers chiffrés et la notice sont publiés. Jamais la clé ni le code en clair.
+*
+!.gitignore
+!README.md
+!version.json
+!app.paquet
