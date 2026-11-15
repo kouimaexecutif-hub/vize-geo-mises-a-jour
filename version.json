@@ -1,7 +1,7 @@
 {
- "version": "2026.11.15.2036",
+ "version": "2026.11.15.2039",
  "moteur": 1,
- "paquet": "app-2026.11.15.2036.paquet",
- "sha256": "fad4b921b99ad1eccb6d028e8ea24f1c4753571968e720316b2745562a70eb4b",
- "taille": 1089156
+ "paquet": "app-2026.11.15.2039.paquet",
+ "sha256": "d26d1cb059765476b0902214e24af7af98f93e24259d88ca9d22060fab8e8cb5",
+ "taille": 1106767
 }
