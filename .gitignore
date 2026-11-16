@@ -5,3 +5,5 @@
 !version.json
 !app.paquet
 !app-*.paquet
+!documents.json
+!doc-*.paquet

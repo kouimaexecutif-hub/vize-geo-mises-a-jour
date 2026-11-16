@@ -1,0 +1,22 @@
+{
+ "manuel": {
+  "version": "2026.11.16.1927",
+  "paquet": "doc-manuel-2026.11.16.1927.paquet",
+  "sha256": "2208a3a96c604de3e5d4fc569f01faf7ca4a9997e95b13ab82602e1446da52c2",
+  "taille": 7498328,
+  "pages": 143,
+  "titre": "Manuel de formation",
+  "date": "2026-11-16",
+  "source": "37fbcc26af6ad19d1776289ecc0db3feb5ddb024c8c49167cb80dcf9bf577f02"
+ },
+ "presentation": {
+  "version": "2026.11.16.1927",
+  "paquet": "doc-presentation-2026.11.16.1927.paquet",
+  "sha256": "b7e651994074e0b1ac3091d4f948e24f5aac478bf31940f4c753262f74ac5115",
+  "taille": 7227295,
+  "pages": 51,
+  "titre": "Présentation de ViZé Géo",
+  "date": "2026-11-16",
+  "source": "06385861792da52eaf82ffffc54af456fa751336e5c98464a05c5fa54d71cb56"
+ }
+}
