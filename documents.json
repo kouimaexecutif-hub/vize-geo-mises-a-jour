@@ -10,13 +10,13 @@
   "source": "37fbcc26af6ad19d1776289ecc0db3feb5ddb024c8c49167cb80dcf9bf577f02"
  },
  "presentation": {
-  "version": "2026.11.16.1927",
-  "paquet": "doc-presentation-2026.11.16.1927.paquet",
-  "sha256": "b7e651994074e0b1ac3091d4f948e24f5aac478bf31940f4c753262f74ac5115",
-  "taille": 7227295,
+  "version": "2026.11.16.2048",
+  "paquet": "doc-presentation-2026.11.16.2048.paquet",
+  "sha256": "b4508f48096fa215b22d9d41c8c173fa0a598ee7ece297a9b5ca4353e379a37e",
+  "taille": 7844261,
   "pages": 51,
   "titre": "Présentation de ViZé Géo",
   "date": "2026-11-16",
-  "source": "06385861792da52eaf82ffffc54af456fa751336e5c98464a05c5fa54d71cb56"
+  "source": "262e371a43fcec557aa216e4a25dbdead676ab56434651e21bd484a58389148f"
  }
 }
