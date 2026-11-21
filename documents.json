@@ -1,13 +1,13 @@
 {
  "manuel": {
-  "version": "2026.11.21.1120",
-  "paquet": "doc-manuel-2026.11.21.1120.paquet",
-  "sha256": "ff9cca67e5824b757b5e4a74c46ed7c22f554825eb432b507bc62ba40c4a2f28",
-  "taille": 9724209,
+  "version": "2026.11.21.1228",
+  "paquet": "doc-manuel-2026.11.21.1228.paquet",
+  "sha256": "ecc834a5d870da81e2ce9db34326368635b9aa5a7cefa8d3e9b68b91f2ea6a8e",
+  "taille": 9847321,
   "pages": 174,
   "titre": "Manuel de formation",
   "date": "2026-11-21",
-  "source": "1879297832a508d7b6567be53fa377a9ec1a945d7f429b57652f74d1a33779e6"
+  "source": "3fab7fc4e48bb2f506fcd45dfbdb8ce95d433a7831b75d769846e4efa9e549ad"
  },
  "presentation": {
   "version": "2026.11.21.0047",
